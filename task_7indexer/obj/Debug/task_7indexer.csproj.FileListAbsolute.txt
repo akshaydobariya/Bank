@@ -1,0 +1,7 @@
+C:\Users\158648\OneDrive - Arrow Electronics, Inc\Desktop\console\CSharpTask\task_7indexer\bin\Debug\task_7indexer.exe.config
+C:\Users\158648\OneDrive - Arrow Electronics, Inc\Desktop\console\CSharpTask\task_7indexer\bin\Debug\task_7indexer.exe
+C:\Users\158648\OneDrive - Arrow Electronics, Inc\Desktop\console\CSharpTask\task_7indexer\bin\Debug\task_7indexer.pdb
+C:\Users\158648\OneDrive - Arrow Electronics, Inc\Desktop\console\CSharpTask\task_7indexer\obj\Debug\task_7indexer.csproj.AssemblyReference.cache
+C:\Users\158648\OneDrive - Arrow Electronics, Inc\Desktop\console\CSharpTask\task_7indexer\obj\Debug\task_7indexer.csproj.CoreCompileInputs.cache
+C:\Users\158648\OneDrive - Arrow Electronics, Inc\Desktop\console\CSharpTask\task_7indexer\obj\Debug\task_7indexer.exe
+C:\Users\158648\OneDrive - Arrow Electronics, Inc\Desktop\console\CSharpTask\task_7indexer\obj\Debug\task_7indexer.pdb

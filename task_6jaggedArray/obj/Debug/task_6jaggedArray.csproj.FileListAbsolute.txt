@@ -1,0 +1,7 @@
+C:\Users\158648\OneDrive - Arrow Electronics, Inc\Desktop\console\CSharpTask\task_6jaggedArray\obj\Debug\task_6jaggedArray.csproj.AssemblyReference.cache
+C:\Users\158648\OneDrive - Arrow Electronics, Inc\Desktop\console\CSharpTask\task_6jaggedArray\obj\Debug\task_6jaggedArray.csproj.CoreCompileInputs.cache
+C:\Users\158648\OneDrive - Arrow Electronics, Inc\Desktop\console\CSharpTask\task_6jaggedArray\bin\Debug\task_6jaggedArray.exe.config
+C:\Users\158648\OneDrive - Arrow Electronics, Inc\Desktop\console\CSharpTask\task_6jaggedArray\bin\Debug\task_6jaggedArray.exe
+C:\Users\158648\OneDrive - Arrow Electronics, Inc\Desktop\console\CSharpTask\task_6jaggedArray\bin\Debug\task_6jaggedArray.pdb
+C:\Users\158648\OneDrive - Arrow Electronics, Inc\Desktop\console\CSharpTask\task_6jaggedArray\obj\Debug\task_6jaggedArray.exe
+C:\Users\158648\OneDrive - Arrow Electronics, Inc\Desktop\console\CSharpTask\task_6jaggedArray\obj\Debug\task_6jaggedArray.pdb

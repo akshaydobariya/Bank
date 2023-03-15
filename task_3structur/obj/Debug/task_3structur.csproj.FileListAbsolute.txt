@@ -1,0 +1,7 @@
+C:\Users\158648\OneDrive - Arrow Electronics, Inc\Desktop\console\CSharpTask\task_3structur\bin\Debug\task_3structur.exe.config
+C:\Users\158648\OneDrive - Arrow Electronics, Inc\Desktop\console\CSharpTask\task_3structur\bin\Debug\task_3structur.exe
+C:\Users\158648\OneDrive - Arrow Electronics, Inc\Desktop\console\CSharpTask\task_3structur\bin\Debug\task_3structur.pdb
+C:\Users\158648\OneDrive - Arrow Electronics, Inc\Desktop\console\CSharpTask\task_3structur\obj\Debug\task_3structur.csproj.AssemblyReference.cache
+C:\Users\158648\OneDrive - Arrow Electronics, Inc\Desktop\console\CSharpTask\task_3structur\obj\Debug\task_3structur.csproj.CoreCompileInputs.cache
+C:\Users\158648\OneDrive - Arrow Electronics, Inc\Desktop\console\CSharpTask\task_3structur\obj\Debug\task_3structur.exe
+C:\Users\158648\OneDrive - Arrow Electronics, Inc\Desktop\console\CSharpTask\task_3structur\obj\Debug\task_3structur.pdb

@@ -1,0 +1,7 @@
+C:\Users\158648\OneDrive - Arrow Electronics, Inc\Desktop\console\CSharpTask\task_5countDatatypes2\bin\Debug\task_5countDatatypes2.exe.config
+C:\Users\158648\OneDrive - Arrow Electronics, Inc\Desktop\console\CSharpTask\task_5countDatatypes2\bin\Debug\task_5countDatatypes2.exe
+C:\Users\158648\OneDrive - Arrow Electronics, Inc\Desktop\console\CSharpTask\task_5countDatatypes2\bin\Debug\task_5countDatatypes2.pdb
+C:\Users\158648\OneDrive - Arrow Electronics, Inc\Desktop\console\CSharpTask\task_5countDatatypes2\obj\Debug\task_5countDatatypes2.csproj.AssemblyReference.cache
+C:\Users\158648\OneDrive - Arrow Electronics, Inc\Desktop\console\CSharpTask\task_5countDatatypes2\obj\Debug\task_5countDatatypes2.csproj.CoreCompileInputs.cache
+C:\Users\158648\OneDrive - Arrow Electronics, Inc\Desktop\console\CSharpTask\task_5countDatatypes2\obj\Debug\task_5countDatatypes2.exe
+C:\Users\158648\OneDrive - Arrow Electronics, Inc\Desktop\console\CSharpTask\task_5countDatatypes2\obj\Debug\task_5countDatatypes2.pdb

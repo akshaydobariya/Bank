@@ -1,0 +1,7 @@
+C:\Users\158648\OneDrive - Arrow Electronics, Inc\Desktop\console\CSharpTask\task_4countDatatypes\bin\Debug\task_4countDatatypes.exe.config
+C:\Users\158648\OneDrive - Arrow Electronics, Inc\Desktop\console\CSharpTask\task_4countDatatypes\bin\Debug\task_4countDatatypes.exe
+C:\Users\158648\OneDrive - Arrow Electronics, Inc\Desktop\console\CSharpTask\task_4countDatatypes\bin\Debug\task_4countDatatypes.pdb
+C:\Users\158648\OneDrive - Arrow Electronics, Inc\Desktop\console\CSharpTask\task_4countDatatypes\obj\Debug\task_4countDatatypes.csproj.AssemblyReference.cache
+C:\Users\158648\OneDrive - Arrow Electronics, Inc\Desktop\console\CSharpTask\task_4countDatatypes\obj\Debug\task_4countDatatypes.csproj.CoreCompileInputs.cache
+C:\Users\158648\OneDrive - Arrow Electronics, Inc\Desktop\console\CSharpTask\task_4countDatatypes\obj\Debug\task_4countDatatypes.exe
+C:\Users\158648\OneDrive - Arrow Electronics, Inc\Desktop\console\CSharpTask\task_4countDatatypes\obj\Debug\task_4countDatatypes.pdb
