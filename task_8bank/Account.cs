@@ -21,23 +21,23 @@ namespace task_8bank
             this.balance = balance;
         }
 
-        public  void Deposit(double amount)
+        public virtual void Deposit(double amount)
         {
             balance += amount;
             Console.WriteLine("Deposit of {0} successful. New balance is {1}.", amount, balance);
         }
 
-        public  void DisplayBalance()
+        public virtual void DisplayBalance()
         {
             Console.WriteLine("Account balance is {0}.", balance);
         }
 
-        public  void ComputeInterest()
+        public virtual void ComputeInterest()
         {
             Console.WriteLine("No interest for this account.");
         }
 
-        public  void Withdraw(double amount)
+        public virtual void Withdraw(double amount)
         {
             if (amount <= balance)
             {
@@ -50,7 +50,7 @@ namespace task_8bank
             }
         }
 
-        public  void CheckMinimumBalance(double minimumBalance, double serviceCharge)
+        public virtual void CheckMinimumBalance(double minimumBalance, double serviceCharge)
         {
             if (balance < minimumBalance)
             {
